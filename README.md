@@ -66,10 +66,3 @@ jupyter notebook iris_classification.ipynb
 ```
 
 4. Follow the notebook cells to explore the data, train the model, and make predictions.
-
-## Learnings
-    1. Introduction to classification problems
-    2. Exploratory data analysis
-    3. Applying and comparing different ML algorithms
-    4. Model tuning and evaluation
-
