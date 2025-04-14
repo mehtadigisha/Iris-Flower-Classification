@@ -57,8 +57,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ``` bash
 Copy
 Edit
-git clone https://github.com/yourusername/iris-classification.git
-cd iris-classification
+git clone [https://github.com/yourusername/iris-classification.git](https://github.com/mehtadigisha/Iris-Flower-Classification)
 ```
 
 3. Run the Jupyter Notebook:
