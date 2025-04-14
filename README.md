@@ -1,4 +1,4 @@
- 🌸 Iris Flower Classification - Machine Learning Project
+ # 🌸 Iris Flower Classification - Machine Learning Project
 
 This project implements a **Supervised Machine Learning** model using **Support Vector Machine (SVM)** to classify iris flowers into three species: *Setosa*, *Versicolor*, and *Virginica*. The model is trained on the classic **Iris dataset**, and includes data visualization, model training, prediction, and evaluation.
 
@@ -38,14 +38,14 @@ Target classes:
 - `seaborn`
 - `scikit-learn`
 
-## 🧠 Model Training & Evaluation
-## The model is built using Support Vector Classifier (SVC) from sklearn.svm. It is evaluated using:
+### 🧠 Model Training & Evaluation
+    The model is built using Support Vector Classifier (SVC) from sklearn.svm. It is evaluated using:
 
-## ✅ Accuracy Score
+### ✅ Accuracy Score
 
-## 📄 Classification Report (Precision, Recall, F1-score)
+### 📄 Classification Report (Precision, Recall, F1-score)
 
-## 💡 How to Use
+### 💡 How to Use
 
 1. Install the libraries using:
 
