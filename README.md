@@ -38,12 +38,12 @@ Target classes:
 - `seaborn`
 - `scikit-learn`
 
-### 🧠 Model Training & Evaluation
+🧠 Model Training & Evaluation
     The model is built using Support Vector Classifier (SVC) from sklearn.svm. It is evaluated using:
 
-### ✅ Accuracy Score
+✅ Accuracy Score
 
-### 📄 Classification Report (Precision, Recall, F1-score)
+📄 Classification Report (Precision, Recall, F1-score)
 
 ### 💡 How to Use
 
